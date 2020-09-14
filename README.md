@@ -6,7 +6,7 @@ a powercord plugin with a context menu utility to move everyone from your curren
 
 # install
 
-https://github.com/Subitize/move-all-vc-master
+git https://github.com/Subitize/move-all-vc-master
 
 
 
