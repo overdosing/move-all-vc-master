@@ -8,7 +8,7 @@ this plugin was originally created by hellbound but included malicious code. thi
 
 # install
 
-`git https://github.com/subitize/move-all-vc-master`
+`git https://github.com/overdosing/move-all-vc-master`
 
 
 
